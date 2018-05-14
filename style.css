@@ -1,0 +1,14 @@
+#app {
+    background: red;
+    width: 100vw;
+    height: 1000vw;
+    position: relative;
+}
+#app div{
+    border-radius: 50%;
+    background: blue;
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    
+}
